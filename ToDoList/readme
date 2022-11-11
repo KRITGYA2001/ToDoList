@@ -1,0 +1,8 @@
+App name :- ToDoList 
+using django and rest_framework 
+
+This app has four features:
+1.Create (http://127.0.0.1:8000/create)
+2.Update (http://127.0.0.1:8000/id)
+3.Delete (http://127.0.0.1:8000/delete/id)
+4.List (http://127.0.0.1:8000/)
